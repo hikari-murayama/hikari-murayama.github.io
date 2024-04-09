@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](https://github.com/hikari-murayama/hikari-murayama.github.io/blob/afbeb7cb86aa811a05e8f049701c2f0c90f316fe/files/Murayama_CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.A. in Chemical Physics, Wellesley College, 2016
+* M.S. in Energy and Resources Group, UC Berkeley, 2020
+* Ph.D in Energy and Resources Group, UC Berkeley, 2025 (expected)
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
