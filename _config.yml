@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hikari Murayama"
 title_separator          : "-"
 name                     : &name "Hikari Murayama"
-description              : &description "PhD Student"
+description              : &description "PhD Candidate"
 url                      : https://hikari-murayama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hikari-murayama/hikari-murayama.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hikari Murayama"
-  avatar           : "profile.png"
+  avatar           : "images/IMG_8167_cropped.jpg"
   bio              : "PhD Student"
   location         : "Berkeley, CA"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "murayama-hikari"
+  twitter          : "murayama_hikari"
   vine             :
   weibo            :
   xing             :
