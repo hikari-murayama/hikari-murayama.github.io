@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in the [Energy and Resources Group](https://erg.berkeley.edu) at the University of California, Berkeley. I'm a Doctoral Fellow at the [Global Policy Lab](http://www.globalpolicy.science) and am advised byy [Prof. Solomon Hsiang](https://www.solomonhsiang.com) and [Prof. Ronald Cohen](https://chemistry.berkeley.edu/faculty/chem/cohen). 
+I'm a PhD Candidate in the [Energy and Resources Group](https://erg.berkeley.edu) at the University of California, Berkeley. I'm a Doctoral Fellow at the [Global Policy Lab](http://www.globalpolicy.science) and am advised by [Prof. Solomon Hsiang](https://www.solomonhsiang.com) and [Prof. Ronald Cohen](https://chemistry.berkeley.edu/faculty/chem/cohen). 
 
 As a graduate student, I am leveraging my background to pursue questions rooted in carbon dioxide emissions mitigation. Mainly, I aim to understand emission levels today and land use change emissions from the past. I have established my methodological basis in remote sensing and machine learning, and am gaining expertise in land cover in Africa and atmospheric chemistry. 
 
