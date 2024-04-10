@@ -28,13 +28,13 @@ Fellowships and Grants
 
 Awards
 ======
-Energy and Resources Group at University of California, Berkeley
+**Energy and Resources Group at University of California, Berkeley**
 *	2021 - Kay Burns Advising and Service Award (awarded to group: Master’s Seminar Series Task Force)
 
-American Society for Photogrammetry and Remote Sensing
+**American Society for Photogrammetry and Remote Sensing**
 *	2019 - 3rd Place in Student Oral Presentations at Pecora Symposium 
 
-Wellesley College
+**Wellesley College**
 *	2016 - Phyllis Fleming Prize for Excellence in Physics 
 *	2013 - First-Year Chemistry Award                                                    
 
@@ -47,10 +47,10 @@ Consultant II (2017-2018), Consultant I (2016-2017)
 
 Academic Service
 ======
-Energy and Resources Group at University of California, Berkeley
+**Energy and Resources Group at University of California, Berkeley**
 * Hiring Committee for Energy and Resources Group Professor (October – December 2022)
 * Master’s Seminar Series Task Force (February 2020 – May 2021)
-Geospatial Innovation Facility (GIF) at University of California, Berkeley
+**Geospatial Innovation Facility (GIF) at University of California, Berkeley**
 * Hiring committee for web developer  
 
 
