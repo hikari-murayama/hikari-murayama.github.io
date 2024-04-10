@@ -1,12 +1,12 @@
-<!-- ---
+---
 title: "Before Graduate School"
 collection: teaching
 # type: ""
 permalink: /teaching/2018-Before
-venue: ""
+# venue: ""
 date: 2018-01-01
-location: ""
---- -->
+# location: ""
+---
 
 Before Graduate School
 ======
