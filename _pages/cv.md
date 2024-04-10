@@ -52,7 +52,7 @@ Academic Service
 * Master’s Seminar Series Task Force (February 2020 – May 2021)
 
 **Geospatial Innovation Facility (GIF) at University of California, Berkeley**
-* Hiring committee for web developer  
+* Hiring committee for web developer  (June – August 2022)
 
 
 _See more in my full CV linked above_
