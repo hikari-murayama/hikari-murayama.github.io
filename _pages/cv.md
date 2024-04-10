@@ -50,6 +50,7 @@ Academic Service
 **Energy and Resources Group at University of California, Berkeley**
 * Hiring Committee for Energy and Resources Group Professor (October – December 2022)
 * Master’s Seminar Series Task Force (February 2020 – May 2021)
+
 **Geospatial Innovation Facility (GIF) at University of California, Berkeley**
 * Hiring committee for web developer  
 
