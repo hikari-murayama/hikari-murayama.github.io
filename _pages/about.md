@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in the [Energy and Resources Group](https://erg.berkeley.edu) at the University of California, Berkeley. I'm a Doctoral Fellow at the [Global Policy Lab](http://www.globalpolicy.science) and am advised by [Prof. Solomon Hsiang](https://www.solomonhsiang.com) and [Prof. Ronald Cohen](https://chemistry.berkeley.edu/faculty/chem/cohen). 
+I'm a PhD Candidate in the [Energy and Resources Group](https://erg.berkeley.edu) at the University of California, Berkeley. I'm a Doctoral Fellow at the [Global Policy Lab](http://www.globalpolicy.science) and am advised by [Prof. Solomon Hsiang](https://www.solomonhsiang.com). I also work closely with [Prof. Ronald Cohen](https://chemistry.berkeley.edu/faculty/chem/cohen), [Prof. Sherrie Wang](https://sherriewang.github.io), and [Prof. Hannah Druckenmiller](https://hannahdruckenmiller.com). 
 
 As a graduate student, I am leveraging my background to pursue questions rooted in carbon dioxide emissions mitigation. Mainly, I aim to understand emission levels today and land use change emissions from the past. I have established my methodological basis in remote sensing and machine learning, and am gaining expertise in land cover in Africa and atmospheric chemistry. 
 
 I was previously a Senior Data Science Fellow and PIT-UN Fellow at the [D-Lab](https://dlab.berkeley.edu/home). I was also a [Data Science for Social Good Fellow](https://escience.washington.edu/using-data-science/data-science-for-social-good/) at the University of Washington’s eScience institute during the summer of 2020. Prior to UC Berkeley, I was as an economic consultant in Washington, D.C. and then led remote sensing projects at [NASA DEVELOP](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop). I graduated from Wellesley College with a B.A. in Chemical Physics.
 
-_I anticipate graduating Spring or Summer 2025_
 
+_I anticipate graduating mid to late 2025_
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
