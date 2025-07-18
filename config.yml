@@ -65,8 +65,8 @@ params:
           buttons:
             - name: Bio
               url: bio/
-            - name: Papers
-              url: papers/
+            # - name: Papers
+            #   url: papers/
             # - name: Data
             #   url: data/
             # - name: Books
