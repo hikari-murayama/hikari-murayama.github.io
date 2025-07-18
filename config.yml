@@ -108,7 +108,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Hikari Murayama"
-      icon: favicon.ico
+      icon: satellite.png
       iconHeight: 18
 
 markup:
