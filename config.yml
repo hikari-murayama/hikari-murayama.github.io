@@ -56,22 +56,22 @@ params:
           enabled: true
           title: Hikari Murayama
           subtitle: "Hi, I’m Hikari Murayama — a PhD candidate at UC Berkeley’s Energy and Resources Group, where I use machine learning and remote sensing to study carbon emissions and land use change. My work spans both history and modern-day climate challenges: I reconstruct past landscapes in Africa from archival aerial photos and use satellite data to monitor CO₂ emissions from power plants today. **I am on the 2025/2026 job market!**"
-          imageUrl: "picture.jpeg"
+          imageUrl: "new_picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Courses
+            #   url: courses/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Archive
+            #   url: archive/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -98,6 +98,8 @@ params:
           url: https://x.com/murayama_hikari
         # - name: Bluesky
         #   url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/hikari-murayama/
 
     assets:
         disableScrollBarStyle: true
