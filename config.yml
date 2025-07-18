@@ -24,6 +24,9 @@ menu:
         - name: Data
           url: data/
           weight: 4 
+        - name: Bio
+          url: bio/
+          weight: 1
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
@@ -60,6 +63,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Bio
+              url: bio/
             - name: Papers
               url: papers/
             # - name: Data
@@ -68,8 +73,8 @@ params:
             #   url: books/
             # - name: Courses
             #   url: courses/
-            - name: Tags
-              url: tags/
+            # - name: Tags
+            #   url: tags/
             # - name: Archive
             #   url: archive/
             # - name: Blog
