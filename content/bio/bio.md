@@ -21,3 +21,8 @@ I’m passionate about interdisciplinary approaches to environmental research �
 Before grad school, I worked in economic consulting and led applied remote sensing projects at NASA DEVELOP. I studied Chemical Physics at Wellesley College, where I first became interested in research.
 
 When I’m not working with code or satellite imagery, I enjoy hiking, planning my next food/coffee/matcha excursion, and going to hot yoga.
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCG3FBWX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
