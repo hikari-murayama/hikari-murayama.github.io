@@ -37,7 +37,7 @@ menu:
 params:
     description: "Hi, I’m Hikari Murayama — a PhD candidate at UC Berkeley’s Energy and Resources Group graduting May 2026."
     author: Hikari Murayama
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-7CJCV8DWPG"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
