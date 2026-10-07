@@ -47,7 +47,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:hikari_murayama@berkeley.edu
+          url: mailto:hikarim@uw.edu
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         - name: Google Scholar
