@@ -45,3 +45,10 @@
 .button:hover {
     background: var(--lightcolor);
 }
+.profile-bio {
+    font-size: 16px;
+}
+
+.profile-bio p {
+    margin-bottom: 1em;
+}

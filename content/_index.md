@@ -3,6 +3,7 @@ title: "Hi! I'm Hikari Murayama."
 date: 2025-07-18
 hidemeta: True
 description: ""
+aliases: ["/bio/", "/bio/bio/"]
 ---
 <head>
   <!-- Google Tag Manager -->
