@@ -14,6 +14,7 @@ aliases: ["/bio/", "/bio/bio/"]
   })(window,document,'script','dataLayer','GTM-NCG3FBWX');</script>
   <!-- End Google Tag Manager -->
 </head>
+
 I'm a Postdoctoral Fellow in the Department of Atmospheric and Climate Science at the University of Washington, working with the [Turner Group](https://alexjturner.github.io/index.html) to advance methane quantification using remote sensing data.
 
 My research sits at the intersection of applied ML, geospatial analysis, and environmental and atmospheric science. I apply these tools to modern and historical climate challenges: from satellite-based monitoring of power plant carbon emissions today to reconstructing past African landscapes using archival aerial photographs.
