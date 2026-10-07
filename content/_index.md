@@ -17,13 +17,13 @@ aliases: ["/bio/", "/bio/bio/"]
 
 I'm a Postdoctoral Fellow in the Department of Atmospheric and Climate Science at the University of Washington, working with the [Turner Group](https://alexjturner.github.io/index.html) to advance methane quantification using remote sensing data.
 
-My research sits at the intersection of environmental and atmospheric science, applied ML, and geospatial analysis. I apply these tools to modern and historical climate challenges: from satellite-based monitoring of power plant carbon emissions today to reconstructing past African landscapes using archival aerial photographs.
+My research is at the intersection of environmental and atmospheric science, applied ML, and remote sensing. I apply these tools to modern and historical climate challenges: from satellite-based monitoring of power plant carbon emissions today to reconstructing past African landscapes using archival aerial photographs.
 
-I completed my Ph.D. at the University of California, Berkeley’s Energy and Resources Group and earned my B.A. in Chemical Physics from Wellesley College. Prior to graduate school, I led applied remote sensing projects at NASA DEVELOP and worked in economic consulting.
+I completed my Ph.D. at the University of California, Berkeley’s Energy and Resources Group and earned my B.A. in Chemical Physics from Wellesley College. Prior to graduate school, I led remote sensing projects at NASA DEVELOP and worked in economic consulting.
 
 My current work is supported by the Gordon and Betty Moore Foundation. Over the course of my career, I have been fortunate to receive support from the [Quad Fellowship](https://www.quadfellowship.org/) and the [University of California Dissertation-Year Fellowship](https://gradapp.berkeley.edu/portal/fellowships?cmd=ucdiss), as well as hold fellowships with the [UW eScience Institute’s Data Science for Social Good program](https://escience.washington.edu/using-data-science/data-science-for-social-good/), [Berkeley’s D-Lab](https://dlab.berkeley.edu/), and [Stanford University’s Global Policy Lab](https://www.globalpolicy.science/).
 
-When I’m away from satellite data and code, I enjoy hiking, traveling, hunting for the best local coffee, matcha, and food spots, and practicing yoga.
+When I’m away from my computer, I enjoy hiking, traveling, hunting for the best local coffee, matcha, and food spots, and practicing yoga.
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCG3FBWX"
