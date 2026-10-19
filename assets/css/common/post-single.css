@@ -72,11 +72,26 @@
     color: var(--secondary);
 }
 
-.post-content a,
 .post-meta a,
 .toc a:hover {
     box-shadow: 0 2px 0 var(--darkcolor);
     color: currentColor; 
+}
+
+.post-content a,
+.profile-bio a {
+    color: currentColor;
+    text-decoration: underline;
+    text-decoration-color: var(--darkcolor);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.15s, color 0.15s;
+}
+
+.post-content a:hover,
+.profile-bio a:hover {
+    color: var(--darkcolor);
+    text-decoration-thickness: 2px;
 }
 
 .post-content a code {

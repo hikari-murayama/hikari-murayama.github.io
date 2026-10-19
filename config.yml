@@ -11,6 +11,21 @@ pagination:
 
 disableKinds: ["taxonomy", "term"]
 
+menu:
+    main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Research
+          url: research/
+          weight: 2
+        - name: Publications
+          url: publications/
+          weight: 3
+        - name: Teaching
+          url: teaching/
+          weight: 4
+
 
 params:
     description: "Hikari Murayama is a Postdoctoral Fellow in the Department of Atmospheric and Climate Science at the University of Washington, using remote sensing and machine learning to quantify methane emissions."
