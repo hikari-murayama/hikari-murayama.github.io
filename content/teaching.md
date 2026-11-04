@@ -30,11 +30,11 @@ Most of my teaching has focused on making geospatial analysis and programming ac
 ## Courses
 
 ### PP275 – Spatial Data Analysis
-*Teaching Assistant · UC Berkeley Goldman School of Public Policy · Fall 2022 · *
+*Teaching Assistant · UC Berkeley Goldman School of Public Policy · Fall 2022 ·*
 [Course page](https://classes.berkeley.edu/content/2022-fall-pubpol-275-001-lec-001)
 
 ### ENERES176 – Climate Change Economics
-*Teaching Assistant · UC Berkeley Energy and Resources Group · Fall 2019 · *
+*Teaching Assistant · UC Berkeley Energy and Resources Group · Fall 2019 ·*
 [Course page](https://classes.berkeley.edu/content/2019-fall-envecon-c176-001-lec-001)
 
 ---
