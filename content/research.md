@@ -6,7 +6,7 @@ description: "Hikari Murayama's research on measuring greenhouse gas emissions a
 
 I use machine learning and remote sensing to measure greenhouse gas emissions and land use change, both today and in the past. Below is an overview of my main research projects. Papers are listed on the [Publications](/publications/) page.
 
-_<sup>\*</sup>=equal contribution_
+*<sup>\*</sup>=equal contribution*
 ---
 
 ## Methane quantification from space

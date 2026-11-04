@@ -6,7 +6,7 @@ description: "Publications by Hikari Murayama."
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=D9vhrgoAAAAJ&hl=en) profile and [CV](/cv.pdf).
 
-_<sup>\*</sup>=equal contribution_
+*<sup>\*</sup>=equal contribution*
 
 ---
 
