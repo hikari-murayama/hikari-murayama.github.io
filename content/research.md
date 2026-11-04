@@ -6,7 +6,7 @@ description: "Hikari Murayama's research on measuring greenhouse gas emissions a
 
 I use machine learning and remote sensing to measure greenhouse gas emissions and land use change, both today and in the past. Below is an overview of my main research projects. Papers are listed on the [Publications](/publications/) page.
 
-_^*=equal contribution_
+_<sup>\*</sup>=equal contribution_
 ---
 
 ## Methane quantification from space
@@ -30,7 +30,7 @@ Power plants are among the largest point sources of carbon dioxide, but direct m
 
 Our picture of how African landscapes have changed over the past century is limited by the lack of historical data. Using an archive of roughly one million historical aerial photographs, We use deep learning to build high-resolution, historical land cover maps across Africa.
 
-+ Noda, E.^*, Murayama, H.^*, Schneider, S.A.^*, et al. *Developing high resolution, historical land cover maps in Africa using deep learning and an aerial photography archive.* In preparation.
++ Noda, E.<sup>\*</sup>, Murayama, H.<sup>\*</sup>, Schneider, S.A.<sup>\*</sup>, et al. *Developing high resolution, historical land cover maps in Africa using deep learning and an aerial photography archive.* In preparation.
 
 ---
 
