@@ -23,7 +23,7 @@ The "Add link" notes below are hidden too; replace them with real links.
 Anything inside these comment markers is not shown on the website.
 -->
 
-Most of my teaching has focused on making geospatial analysis and programming accessible to researchers from any background, through [UC Berkeley's D-Lab](https://dlab.berkeley.edu/), where I co-developed and taught workshops in R, Python, and QGIS, and as a teaching assistant for courses in spatial data analysis and climate change economics. I've also mentored undergraduates in research using remote sensing and machine learning tools.
+Most of my teaching has focused on making geospatial analysis and programming accessible to researchers from any background, through [UC Berkeley's D-Lab](https://dlab.berkeley.edu/), where I co-developed and taught workshops. I've taught both graduate and undegraduate students as a teaching assistant for courses in spatial data analysis and climate change economics. I've also mentored undergraduates in research using remote sensing and machine learning tools.
 
 ---
 
@@ -49,6 +49,8 @@ Most of my teaching has focused on making geospatial analysis and programming ac
 + **Geospatial Analysis in Python** ·  [Workshop materials](https://github.com/dlab-berkeley/Python-Geospatial-Fundamentals-Legacy)
 + **Geospatial Analysis in QGIS** · [Workshop materials](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-QGIS)
 + **Digital Health Social Justice** · [Website](https://live-dlab.pantheon.berkeley.edu/landing-page/digital-health-social-justice-toolkit)
+
+### Co-developed
 + **Data for Housing** · [Website](https://dataforhousing.org/)
 
 ### Taught
@@ -63,7 +65,7 @@ Most of my teaching has focused on making geospatial analysis and programming ac
 ### Data Discovery Program
 *UC Berkeley · August 2025 – May 2026*
 
-Led and mentored six undergraduates across two research teams: one updating a deep learning pipeline to quantify carbon dioxide emissions from power plants using a simulated dataset, and one working on nitrogen oxide (NOₓ) emissions.
+Mentored six undergraduates across two research teams: one updating a deep learning pipeline to quantify carbon dioxide emissions from power plants using a simulated dataset, and one working on nitrogen oxide (NOₓ) emissions. Check out the pre-print for NOₓ [here](https://eartharxiv.org/repository/view/15747/).
 
 ### Getting into Graduate School (GiGS)
 *UC Berkeley · August 2025 – May 2026*
@@ -73,4 +75,4 @@ Mentored an undergraduate student through applying to graduate school.
 ### Environmental and Energy Economics Mentoring Program
 *UC Berkeley · August 2024 – May 2025*
 
-Led and mentored two undergraduates in research quantifying tropical cyclone impacts in Madagascar.
+Mentored two undergraduates in research quantifying tropical cyclone impacts in Madagascar. [They presented their work at AGU](https://ui.adsabs.harvard.edu/abs/2025AGUFMGC43P0993Z/abstract).

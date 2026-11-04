@@ -10,7 +10,8 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=D9vhrgoAA
 
 ## In preparation
 
-+ **Murayama, H.**, Noda, E., Chong, T., Druckenmiller, H., Ferguson, J., Greenhill, S., Hsiang, S., Ilin, C., Kee, T., Madestam, A., Nordfors, N., Tompsett, A., Wang, S. *Developing high resolution, historical land cover maps in Africa using deep learning and an aerial photography archive.*
++ Noda, E.[^*],**Murayama, H.**[^*], Schneider, S.A.[^*], Chong, T., Druckenmiller, H., Ferguson, J., Greenhill, S., Hsiang, S., Ilin, C., Kee, T., Madestam, A., Nordfors, N., Tompsett, A., Wang, S. *Developing high resolution, historical land cover maps in Africa using deep learning and an aerial photography archive.*
+[^*]: Equal author contribution
 
 + **Murayama, H.**, Wang, S., Sherman, L., Cohen, R., Hsiang, S. *Parameterizing deep learning for carbon dioxide emission quantification for power plants.*
 
